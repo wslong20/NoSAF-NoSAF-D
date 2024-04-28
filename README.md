@@ -16,11 +16,16 @@
 
 ### Usage
 #### *Recommended Requirements
-torch=1.13.1+cu117
-torch-geometric=2.3.1
-ogb=1.3.6
-tqdm=4.65.0
-h5py=3.9.0
+
+* torch=1.13.1+cu117
+
+* torch-geometric=2.3.1
+
+* ogb=1.3.6
+
+* tqdm=4.65.0
+
+* h5py=3.9.0
 
 在所有数据集上运行NoSAF, 执行如下指令：
   chmod u+x NoSAF.sh
