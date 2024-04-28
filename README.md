@@ -15,7 +15,7 @@
 
 
 ### Usage
-#### *Recommended Requirements
+#### Recommended Requirements
 
 * torch=1.13.1+cu117
 
