@@ -27,10 +27,21 @@
 
 * h5py=3.9.0
 
-在所有数据集上运行NoSAF, 执行如下指令：
-  chmod u+x NoSAF.sh
-  ./NoSAF.sh
+To train NoSAF on all small datasets, run:
+```
+chmod u+x NoSAF.sh
+```
+```
+./NoSAF.sh
+```
 
-在所有数据集上运行NoSAF-D，执行如下指令：
-  chmod u+x DeepNoSAF.sh
-  ./NoSAF.sh
+To train NoSAF-D on all small datasets, run:
+```
+chmod u+x DeepNoSAF.sh
+```
+```
+./DeepNoSAF.sh
+```
+
+#### To train NoSAF or NoSAF-D on a single data set, you can find the corresponding command in the corresponding .sh file
+
